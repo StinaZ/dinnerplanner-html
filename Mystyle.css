@@ -1,0 +1,36 @@
+body {
+    background-image: url("main.jpg");
+    background-color: #cccccc;
+}
+
+#header{
+    background-color:rgba(255,182,193,0.6);
+    text-align: left;
+    padding: 20px;
+    opacity: 0.6;
+    filter: alpha(opacity=40);
+    border-style: solid;
+    border-color: #eee5de;
+    border-top: none;
+}
+
+#main-block {
+    background-color:rgba(255,255,255,0.6);
+    text-align: left;
+    position: relative;
+    top:100px;
+    width: 500px;
+    padding-top:10px;
+    padding-bottom:100px;
+    padding-left:10px;
+    
+}
+
+h1 {
+    color: black;
+}
+
+small {
+    color: black;
+    font-style: italic;
+}
